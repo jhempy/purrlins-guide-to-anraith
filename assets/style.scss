@@ -58,7 +58,7 @@ body {
     margin: 0 auto;
     max-width: 1440px;
     padding-left: 12.5%;
-    padding-top: 5rem;
+    padding-top: 2rem;
     width: 87.5%;
 }
 
@@ -359,4 +359,11 @@ nav {
     body{background:#191919;filter:invert(1);}
     .highlight{border-color: grey !important;}
     img,iframe,.highlight,a:hover,a:focus{filter:invert(1);}
+}
+
+
+
+.tower {
+    color: rgb(220, 40, 40);
+    font-style: italic;
 }

@@ -43,9 +43,10 @@
   font-kerning: auto;
 }
 
+/* Avoid weird content flash */
 html {
-  font-family: sans-serif;
-  -webkit-text-size-adjust: 100%;
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
 }
 
 body {
