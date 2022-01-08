@@ -43,9 +43,10 @@
   font-kerning: auto;
 }
 
+/* Avoid weird content flash */
 html {
-  font-family: sans-serif;
-  -webkit-text-size-adjust: 100%;
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -58,7 +59,7 @@ body {
     margin: 0 auto;
     max-width: 1440px;
     padding-left: 12.5%;
-    padding-top: 2rem;
+    padding-top: 1rem;
     width: 87.5%;
 }
 
@@ -251,6 +252,10 @@ figure {
     }
 }
 
+.margin-toggle {
+    display: none;
+}
+
 /**************************************
     $CONTAINERS
 /**************************************/
@@ -359,11 +364,4 @@ nav {
     body{background:#191919;filter:invert(1);}
     .highlight{border-color: grey !important;}
     img,iframe,.highlight,a:hover,a:focus{filter:invert(1);}
-}
-
-
-
-.tower {
-    color: rgb(220, 40, 40);
-    font-style: italic;
 }
