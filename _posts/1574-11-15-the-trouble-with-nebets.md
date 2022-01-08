@@ -24,7 +24,7 @@ title: The Trouble With Nebets...
 </p>
 
 <p>
-    Mathematics and calculations had always come easily to me, so when I happened upon the traders' quarter and learned how voyages were financed, I realized an opportunity to put my analytical mind to work. In the morning, I would buy "shares" of cargo due to arrive  from their original investors, and throughout the day I would resell these "shares" to new investors hoping for their ship to come in - literally. I made a point of never carrying shares over from one day to the next - this ridiculous practice was simply too foolish to be believed! - any never took advantage of a poor soul's ignorance or bad luck. I paid fairly and made a modest margin for my efforts. And in this way I, too, accumulated a small sum and prepared for a time when my companions and I would no longer need to pool resources.
+    Mathematics and calculations had always come easily to me, so when I happened upon the traders' quarter and learned how voyages were financed, I realized an opportunity to put my analytical mind to work. In the morning, I would buy "shares" of cargo due to arrive  from their original investors, and throughout the day I would resell these "shares" to new investors hoping, literally, for their ship to come in. I made a point of never carrying shares over from one day to the next - this ridiculous practice was simply too foolish to be believed! - any never took advantage of a poor soul's ignorance or bad luck. I paid fairly and made a modest margin for my efforts. And in this way I, too, accumulated a small sum and prepared for a time when my companions and I would no longer need to pool resources.
 </p>
 
 <p>
