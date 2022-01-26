@@ -13,7 +13,7 @@ timeline_point: Tamsah 2, 1574
 </p>
 
 <p>
-    The <em>Stow-Away</em> has 30-some-odd rooms. Some of them are occupied long-term and others for just a night or two, ensuring both familiar faces and new ones every day at mealtime. This morning, we were joined by a stony warforged named Hudson. As he was also looking for items of particular interest to add to his kit, he accompanied us to the merchant district and then to the broad avenue where Urdak's magic shoppes are to be found. Hudson listened politely as we schemed about taking revenge upon the Nebet family, but he did not contribute. He appears to have not (yet?) run afoul of them as we had, but did not seem to pass judgement upon our need for petty revenge.
+    The <em>Stow-Away</em> has 30-some-odd rooms. Some of them are occupied long-term and others for just a night or two, ensuring both familiar faces and new ones every day at mealtime. This morning, we were joined by a stony warforged named Hudson. As he was also looking for items of particular interest to add to his kit, he accompanied us to the merchant district and then to the broad avenue where Urdak's magic shoppes are to be found. Hudson listened politely as we schemed about taking revenge upon the Nebet family, but he did not contribute. He appears to have not (yet?) run afoul of the Nebets, but did not seem to pass judgement upon our need for petty revenge.
 </p>
 
 <p>
@@ -29,7 +29,7 @@ timeline_point: Tamsah 2, 1574
 </p>
 
 <p>
-    Our next stop was an amuletery. Aldritch hoped to find a talisman that would amplify and focus his connection with his god. The proprietor found one such device, and though it was dedicated to a different god than Aldritch worships, we were assured it would function properly for any diety of similar inclination. At 900 gold, however, it was beyond our means. The proprietor was kindly, and suggested<label for="sn-suggestion" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-suggestion" class="margin-toggle"/><span class="sidenote">With great reservation, it must be noted.</span> that should our budget preclude patronage of sanctioned magic shoppes, we might try <em>Remi's Secondhand and Discount Magic Item Emporium</em>, the only non-sanctioned magic shoppe permitted in Urdak, which could not fail to notice if we continued down the boulevard. We thanked him for his suggestion and moved along.
+    Our next stop was an amuletery. Aldritch hoped to find a talisman that would amplify and focus his connection with his god. The proprietor found one such device, and though it was dedicated to a different god than Aldritch worships, we were assured it would function properly for any diety of similar inclination. At 900 gold, however, it was beyond our means. The proprietor was kindly, and suggested<label for="sn-suggestion" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-suggestion" class="margin-toggle"/><span class="sidenote">With great reservation, it must be noted.</span> that should our budget preclude patronage of sanctioned magic shoppes, we might try <em>Remi's Secondhand and Discount Magic Item Emporium</em>, the only non-sanctioned magic shoppe permitted in Urdak, which we could not fail to notice if we simply continued down the boulevard. We thanked him for his suggestion and moved along.
 </p>
 
 <p>
@@ -53,7 +53,7 @@ timeline_point: Tamsah 2, 1574
 </p>
 
 <p>
-    Finally - and most interestingly - Remi received a very important visitor, the Primus himself, Imhotep Nasir. As we learned in our brief conversation with the Primus, Nasir is a man of similar mind to Remi, and no great friend of the crime families that run his city. The Primus seemed quite glad to see us<label for="sn-justdrake" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-justdrake" class="margin-toggle"/><span class="sidenote">Actually, he was quite glad to see Drake, perplexed about Hudson, and unconcerned about the rest of us.</span> and immediately made us an interesting offer: he wanted us to deliver an item to the Nebet family at the upcoming meeting of crime families, two weeks hence.
+    Finally - and most interestingly - Remi received a very important visitor, the Primus himself, Imhotep Nasir. As we learned in our brief conversation with the Primus, Nasir is a man of similar mind to Remi, and no great friend of the crime families that run his city. The Primus seemed quite glad to see us<label for="sn-justdrake" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-justdrake" class="margin-toggle"/><span class="sidenote">Actually, he was quite glad to see Drake, perplexed about Hudson, and unconcerned about the rest of us.</span> and immediately made an interesting request: deliver an item to the Nebet family at the upcoming meeting of crime families, two weeks hence.
 </p>
 
 <p>
